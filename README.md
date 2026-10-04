@@ -19,7 +19,7 @@ A complete industrial electrical control system for sequential starting of two 3
 
 ## 📐 System Architecture & Operation Principle
 
-### 1. Power Circuit (Mạch Động Lực)
+### 1. Power Circuit 
 - **Main Breakers (CB1):** Provides short-circuit protection for the main power line.
 - **Contactors (KM1, KM2):** Controls power supply to Motor 1 (M1) and Motor 2 (M2).
 - **Overload Relays (OL1, OL2 / EOCR):** Independent electronic overcurrent protection for each motor.
