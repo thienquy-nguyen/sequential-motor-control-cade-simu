@@ -49,7 +49,7 @@ Thien Quy Nguyen
 
 Automation & Control Engineering Student | Vietnam Aviation Academy (VAA)
 
-Email: quy.nguyen.eng@gmail.com
+Email: quynt.automation@gmail.com
 
 LinkedIn: Thien Quy Nguyen
 
